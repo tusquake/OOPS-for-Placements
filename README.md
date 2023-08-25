@@ -1,6 +1,5 @@
-# OOPS-placements-
-Basic OOPs Interview Questions
-1. What is OOPs?
+#  OOPs Interview Questions
+##1. What is OOPs?
 Programmers can use objects to represent real-world circumstances thanks to object-oriented programming. Any entity with states and behaviors is an object. While methods define an item’s behaviors, states reflect the characteristics or data of an entity. Objects include students, workers, books, etc. By exchanging messages, these things communicate with one another. A class is also a template for building an object. A class is required in order to generate objects. For instance, there needs to be an Employee class in order to generate an Employee object.
 
 2. Difference between Procedural programming and OOPs?
