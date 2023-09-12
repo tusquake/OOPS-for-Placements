@@ -15,7 +15,7 @@ public class Test1 {
         System.out.println(pc.s);// parent
 
         child ch = new child();
-        System.out.println(ch.s);// parent
+        System.out.println(ch.s);// child
 
     }
 }
